@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsukyou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsukyou&hide=Jupyter%20Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **minsukyou/minsukyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
